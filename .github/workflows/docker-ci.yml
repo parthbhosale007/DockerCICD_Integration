@@ -54,4 +54,4 @@ jobs:
 
         push: true 
 
-        tags: ${{ secrets.DOCKER_USERNAME }}/DockerCICD_Integration:latest 
+        tags: ${{ secrets.DOCKER_USERNAME }}/dockercicd_integration:latest 
